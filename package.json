@@ -1,0 +1,23 @@
+{
+  "name": "rbac",
+  "version": "1.0.0",
+  "description": "Building Role-Based Access Control (RBAC) in Node.Js and Express.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashrafwebdev/rbac.git"
+  },
+  "keywords": [
+    "rbac",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Mohammed Ashraf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
